@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "HookyQR.beautify",
+        "pranaygp.vscode-css-peek",
+        "lukehoban.go",
+        "dbaeumer.vscode-eslint",
+        "Orta.vscode-jest",
+        "christian-kohler.path-intellisense",
+        "WallabyJs.quokka-vscode",
+        "xabikos.reactsnippets",
+        "robinbentley.sass-indented",
+        "mrmlnc.vscode-scss"
+    ]
+}
