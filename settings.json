@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.sideBar.location": "right",
+    "window.zoomLevel": -1,
+    "editor.minimap.enabled": true,
+    "editor.minimap.maxColumn": 100,
+    "editor.renderIndentGuides": true,
+    "editor.dragAndDrop": true,
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#68d69a",
+        "activityBarBadge.background": "#ff5959",
+        "editor.background": "#000",
+        "statusBar.foreground": "#68d69a",
+        "statusBar.background": "#272822"
+    },
+    "workbench.iconTheme": "vs-seti"
+}
